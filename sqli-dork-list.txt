@@ -1,4 +1,3 @@
-List of google dorks for sql injection
 inurl:index.php?id=
 inurl:trainers.php?id=
 inurl:buy.php?category=
@@ -629,4 +628,3 @@ inurlffer.php?idf=
 inurl:art.php?idm=
 inurl:title.php?id=
 
-
